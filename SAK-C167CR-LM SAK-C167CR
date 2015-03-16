@@ -1,0 +1,82 @@
+● High Performance 16-bit CPU with 4-Stage Pipeline
+● 100 ns Instruction Cycle Time at 20 MHz CPU Clock
+● 500 ns Multiplication (16 × 16 bit), 1 µs Division (32 / 16 bit)
+● Enhanced Boolean Bit Manipulation Facilities
+● Additional Instructions to Support HLL and Operating Systems
+● Register-Based Design with Multiple Variable Register Banks
+● Single-Cycle Context Switching Support
+● Clock Generation via on-chip PLL or via direct clock input
+● Up to 16 MBytes Linear Address Space for Code and Data
+● 2 KBytes On-Chip Internal RAM (IRAM)
+● 2 KBytes On-Chip Extension RAM (XRAM)
+● Programmable External Bus Characteristics for Different Address Ranges
+● 8-Bit or 16-Bit External Data Bus
+● Multiplexed or Demultiplexed External Address/Data Buses
+● Five Programmable Chip-Select Signals
+● Hold- and Hold-Acknowledge Bus Arbitration Support
+● 1024 Bytes On-Chip Special Function Register Area
+● Idle and Power Down Modes
+● 8-Channel Interrupt-Driven Single-Cycle Data Transfer Facilities via Peripheral Event Controller (PEC)
+● 16-Priority-Level Interrupt System with 56 Sources, Sample-Rate down to 50 ns
+● 16-Channel 10-bit A/D Converter with 9.7 µs Conversion Time
+● Two 16-Channel Capture/Compare Units
+● 4-Channel PWM Unit
+● Two Multi-Functional General Purpose Timer Units with 5 Timers
+● Two Serial Channels (Synchronous/Asynchronous and High-Speed-Synchronous)
+● On-Chip CAN Interface with 15 Message Objects (Full-CAN/Basic-CAN)
+● Programmable Watchdog Timer
+● Up to 111 General Purpose I/O Lines, partly with Selectable Input Thresholds and Hysteresis
+● Supported by a Wealth of Development Tools like C-Compilers, Macro-Assembler Packages,Emulators, Evaluation Boards, HLL-Debuggers, Simulators, Logic Analyzer Disassemblers,
+Programming Boards
+● On-Chip Bootstrap Loader
+● 144-Pin MQFP Package (EIAJ)
+
+INFINEON brand stock list
+
+SAK-TC1724N-192F80HL	BTS6143D	APN337S3959	TLE4921-5U	SAH-C164CL-8RM	PTFB183404E	PTFB182503EL
+PEF42065HLV1.2	BTS462T	BTS462	BTS728L2	BTS728	BTS3160D	BTS3160
+BTS5016SDA	BTS5016	BTS5120-2E	BTS5120	BTS5240L	BTS5240	BTS5590G
+BTS5590	TLE6208-3G	TLE6208	FS800R07A2E3_A4ENG	FS800R07A2E3	FS800R07A2E3_A4	FZ600R12KS4
+ICE3B5065P	ICE3B5065	IPG20N06S2L-35	ADM5120P	BCR35PN	BCR35	BCR35PN E6327
+FF450R17ME3	FF1200R17KE3	FF1200R17KE3-B2	FP50R12KT4G	IL300	IL300-C	IL300-H
+IPI023NE7N3G	IPI023NE7N3	BSM150GB120DN2	BSM150GB120D	BSM150GB120	BTS4300SGA	BTS4300
+BTS4880R	BTS4880	BTS5045-2EKA	BTS5045-2E	BTS5045	BTS5215L	BTS5215
+BTS7710G	BTS7710	TLE4250-2	TLE4250-2G	TLE4250	TLE4921	TLE6209
+TLE6209R	TLE7240SL	TLE7240	IPG20N06	BSP89	TCA785	TCA785P
+XC161CJ-16F	SAK-XC161CJ-16F40F	SAB80535	SAB80535-N	IGCM15F60GA	IGCM15F60	PTFA092213
+PTFA092213ELV4	S-14876801	SAF-C515C-8	SAF-C515C-8EM	SAK-TC1762-128	SAK-TC1762-128F66HL	SFH350
+SFH350V	20N60C3	SPW20N60C3	TDA21106	TLE4203	TLE4966	TLE4966K
+TLE6230	TLE6230GP	TLE7189	TLE7189F	TLE7232	TLE7232GS	TLE7237
+TLE7237SL	PBA31305	PEF4268FV1.2	PEF4268FV	PEF4268	PMB7850EV3.1HM42	PMB7850
+1ED020I12	1ED020I12FA	1ED020I12FTA	2ED020I06	2ED020I12	2ED020I12FA	2ED020I12-FI
+6ED003L02	6ED003L02-F	6ED003L02-F2	6ED003L06	6EDL04I06	6EDL04I06NT	6EDL04I06PT
+6EDL04N02	6EDL04N02PR	6EDL04N06	6EDL04N06PT	ATTINY28	ATTINY28L-4	ATTINY28L-4AC
+ATTINY28L-4AU	ATTINY28L-4MU	ATTINY28L-4PU	BCR205	BCR205W	BCR320	BCR320U
+BCR321	BCR321U	BCR401	BCR401R	BCR401U	BCR401W	BCR402
+More models,please browse the Web:http://www.mjdic.com/ppfl-brands-id-256.html
+
+Shipping:
+ 
+1. We can shipping all over the world by DHL , UPS , FedEx and EMS . The packaging is very safe and strong. If you have any special needs please nitfy me.
+
+2. It will take around 3-5 days to reach your hands .
+
+
+Product Type & Condition :
+
+1. Because of the fluctuant sales situation. the stock parts are always changing and the stock list cannot be promptly updated . So,please consult the stock situation when you inquire.
+
+
+Warranty & Guarantee :
+
+All components we sell the quality with 30 days Return policy from the day of shipment. 
+
+
+Buyer Reading:
+
+1. Please confirm receipt of products if the items you received , and if the goods was damaged please contact us immediately. send the photo to us that we can check and give you best solution 
+
+2. We only guarantee Delivery in time but we couldn't control the express delivery time. Our related sales person will be responsible to send the AWB for the delivered goods in the next workday. you can check the AWB in the website which we send to you. For the AWB you also can call to the local branch of the express company in your company.
+ 
+
+If you have any other questions please feel free to contact us in any time!
