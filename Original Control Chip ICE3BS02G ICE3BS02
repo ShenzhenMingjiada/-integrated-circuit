@@ -1,0 +1,79 @@
+Features
+• Active Burst Mode for lowest Standby Power @ light load controlled by Feedback Signal
+• Fast load jump response in Active Burst Mode
+• 500V Startup Cell switched off after Start Up
+• 100/67kHz internally fixed switching frequency
+• Auto Restart Mode for Overtemperature Detection
+• Auto Restart Mode for VCC Overvoltage Detection
+• Auto Restart Mode for Overload and Open Loop
+• Auto Restart Mode for VCC Undervoltage
+• Blanking Window for short duration high current
+• User defined Soft Start 
+• Minimum of external components required
+• Max Duty Cycle 72% 
+• Overall tolerance of Current Limiting < ±5%
+• Internal PWM Leading Edge Blanking
+• Soft switching for low EMI
+
+Product Highlights
+• Leadfree DIP package
+• Active Burst Mode to reach the lowest Standby Power Requirements < 100mW
+• Protection features (Auto Restart Mode) to increase robustness and safety of the system
+• Adjustable Blanking Window for high load jumps to increase system reliability
+
+Description
+The F3 Controller provides Active Burst Mode to reach the lowest Standby Power Requirements <100mW at no load. As the controller is always active during Active Burst 
+Mode, there is an immediate response on load jumps without any black out in the SMPS. In Active Burst Mode the ripple of the output voltage can be reduced <1%. 
+Furthermore, to increase the robustness and safety of the system, the device enters into Auto Restart Mode in the cases of Overtemperature, VCC Overvoltage, Output 
+Open Loop or Overload and VCC Undervoltage. By means of the internal precise peak current limitation, the dimension of the transformer and the secondary diode can 
+be lowered which leads to more cost efficiency. An adjustable blanking window prevents the IC from entering Auto Restart Mode or Active Burst Mode unintentionally in 
+case of high load jumps.
+
+INFINEON brand stock list
+BCR402R	BCR402U	BCR402W	BCR405	BCR405U	BCR420	BCR420U
+BCR421	BCR421U	BCR450	BF2030	BF2030R	BF2030W	BF2040
+BF2040R	BF2040W	BF5020	BF5020R	BF5020W	BF5030	BF5030R
+BF5030W	BF999	BFP840	BFP840ESD	BFP840FESD	BGA231	BGA231L7
+BGA428	BGA461	BGA615	BGA615L7	BGA715	BGA715L7	BGA915
+BGA915N7	BGF108	BGF108C	BGF109	BGF109C	BGF128	BSB008NE2
+BSB008NE2LX	BSB012N03	BSB012N03LX3	BSB012NE2	BSB012NE2LX	BSB013NE2	BSB013NE2LXI
+BSB014N04	BSB014N04LX3	BSB015N04	BSB015N04NX3	BSB017N03	BSB017N03LX3	BSB027P03
+BSB027P03LX3	BSB028N06	BSB028N06NN3	BSB029P03	BSB029P03NX3G	BSB044N08	BSB044N08NN3
+BSB056N10	BSB056N10NN3	BSB165N15	BSB165N15NZ3	BSB280N15	BSB280N15NZ3	BSC010NE2
+BSC010NE2LS	BSC010NE2LSI	BSC011N03	BSC011N03LS	BSC011N03LSI	BSC014N03	BSC014N03LS
+BSC014N03MS	BSC014NE2	BSC014NE2LSI	BSC016N03	BSC016N03LS	BSC016N03MS	BSC018NE2
+BSC018NE2LS	BSC018NE2LSI	BSC020N03	BSC020N03LS	BSC020N03MS	BSC024NE2	BSC024NE2LS
+BSC025N03	BSC025N03LS	BSC025N03MS	BSC030N03	BSC030N03LS	BSC030N03MS	DD126A45
+DD126A45K	DDB6U100	DDB6U100N16	DDB6U100N16R	DDB6U134	DDB6U134N16	DDB6U134N16RR
+DDB6U144	DDB6U144N16	DDB6U144N16R	DDB6U145	DDB6U145N16	DDB6U145N16L	DDB6U205
+DDB6U205N16	DDB6U205N16L	DDB6U215	DDB6U215N16	DDB6U215N16L	DDB6U25	DDB6U25N16
+DDB6U25N16VR	DDB6U75	DDB6U75N16	DDB6U75N16W1R	DDB6U75N16YR	DDB6U84	DDB6U84N16
+DDB6U84N16RR	DDB6U85	DDB6U85N16	DDB6U85N16L	DF1000R17	DF1000R17IE4	DF1400R12
+DF1400R12IP4	DF1400R12IP4D	DF200R12	DF150R12	DF150R12RT4	DF200R12KE3	DF300R12
+More models,please browse the Web:http://www.mjdic.com/ppfl-brands-id-256-p-2-
+
+Shipping:            
+
+1. We can shipping all over the world by DHL , UPS , FedEx and EMS . The packaging is very safe and strong. If you have any special needs please nitfy me.
+
+2. It will take around 3-5 days to reach your hands .
+
+
+Product Type & Condition :
+
+1. Because of the fluctuant sales situation. the stock parts are always changing and the stock list cannot be promptly updated . So,please consult the stock situation when you inquire.
+
+
+Warranty & Guarantee :
+
+All components we sell the quality with 30 days Return policy from the day of shipment. 
+
+
+Buyer Reading:
+
+1. Please confirm receipt of products if the items you received , and if the goods was damaged please contact us immediately. send the photo to us that we can check and give you best solution 
+
+2. We only guarantee Delivery in time but we couldn't control the express delivery time. Our related sales person will be responsible to send the AWB for the delivered goods in the next workday. you can check the AWB in the website which we send to you. For the AWB you also can call to the local branch of the express company in your company.
+ 
+
+If you have any other questions please feel free to contact us in any time!
