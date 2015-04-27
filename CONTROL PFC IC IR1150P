@@ -1,0 +1,112 @@
+CONTROL PFC IC IR1150P
+
+Datasheets	IR1150(S)(PbF), IR1150I(S)(PbF)
+Product Photos	8-DIP
+PCN Obsolescence/ EOL	Multiple Devices 17/Apr/2015
+Standard Package 	50
+Category	 Integrated Circuits (ICs)
+Family	PMIC - PFC (Power Factor Correction)
+Series	-
+Packaging 	Tube 
+Mode	Continuous Conduction (CCM)
+Frequency - Switching	200kHz
+Current - Startup	175µA
+Voltage - Supply	15 V ~ 20 V
+Operating Temperature	0°C ~ 70°C
+Mounting Type	Through Hole
+Package / Case	8-DIP (0.300", 7.62mm)
+Supplier Device Package	8-DIP
+
+Features 
+• PFC with IR proprietary “One Cycle Control” • Continuous conduction mode (CCM) boost type PFC 
+• No line voltage sense required 
+• Programmable switching frequency (50kHz-200kHz) 
+• Programmable output overvoltage protection 
+• Brownout and output undervoltage protection 
+• Cycle-by-cycle peak current limit 
+• Soft start • User initiated micropower “Sleep Mode” 
+• Open loop protection 
+• Maximum duty cycle limit of 98% 
+• User programmable fixed frequency operation 
+• Min. off time of 150-350ns over freq range 
+• VCC under voltage lockout 
+• Internally clamped 13V gate drive 
+• Fast 1.5A peak gate drive 
+• Micropower startup (<200 µA) 
+• Latch immunity and ESD protection 
+• Parts also available Lead-Free
+
+Description 
+The µPFC IR1150 is a power factor correction (PFC) control IC designed to operate in continuous conduction mode (CCM) over a wide range input line 
+voltages. The IR1150 is based on IR's proprietary "One Cycle Control" (OCC) technique providing a cost effective solution for PFC. 
+The proprietary control method allows major reductions in component count, PCB area and design time while delivering the same high system performance 
+as traditional solutions. The IC is fully protected and eliminates the often noise sensitive line voltage sensing requirements of existing solutions. 
+The IR1150 features include programmable switching frequency, programmable dedicated over voltage protection, soft start, cycle- by-cycle 
+peak current limit, brownout, open loop, UVLO and micropower startup current. In addition, for low standby power requirements (Energy Star, 1W 
+Standby, Blue Angel, etc.), the IC can be driven into sleep mode with total current consumption below 200µA, by pulling the OVP pin below 0.62V. 
+
+IR brand stock list
+44A717067	50WQ10FN	D2N202LD18	IR2130J	IR2130	IRF7509	IRFB4115
+IRFD320	IRFL014N	IRFL014	IRFP064	IRFP4668	IRFS3004	IRGP4063D
+IRGP4063	IRLML6402	30CTQ080	IRF6217TRPBF	IRF630	IRF9540NS	IRF9640
+IRFBC40	IRFP140	IRFP240	IRFP450	CPV362M4U	IR2153	IR2153PBF
+IRF635	IRF8302M	IRF8302	IRFZ48V	IRFZ48	IRS2093MTRPBF	IRS2093
+IRS2093M	AFC461	AFC461F	AFH461	AUIPS1011	AUIPS1011R	AUIPS1011S
+AUIPS1021	AUIPS1021R	AUIPS1021S	AUIPS1031	AUIPS1031R	AUIPS1031S	AUIPS1041
+AUIPS1041L	AUIPS1041R	AUIPS1042	AUIPS1042G	AUIPS1051	AUIPS1051L	AUIPS1052
+AUIPS1052G	AUIPS2031	AUIPS2031R	AUIPS2041	AUIPS2041L	AUIPS2041R	AUIPS2051
+AUIPS2051L	AUIPS2052	AUIPS2052G	AUIPS6011	AUIPS6011R	AUIPS6011S	AUIPS6021
+AUIPS6021R	AUIPS6021S	AUIPS6031	AUIPS6031R	AUIPS6031S	AUIPS6041	AUIPS6041G
+AUIPS6041R	AUIPS6041S	AUIPS6044	AUIPS6044G	AUIPS7081	AUIPS7081R	AUIPS7081S
+AUIPS7091	AUIPS7091G	AUIPS7091S	AUIPS7111	AUIPS7111S	AUIPS7125	AUIPS7125R
+AUIPS71411G	AUIPS7142G	AUIPS71451G	AUIPS7145R	AUIPS72211R	AUIPS7221R	AUIR0815S
+AUIR2085S	AUIR3200S	AUIR3240S	AUIR3313	AUIR3313S	AUIR3314	AUIR3314S
+AUIR3315	AUIR3315S	AUIR3316	AUIR3316S	AUIR3317	AUIR3317S	AUIR3330S
+AUIR33401S	AUIRF1010EZ	AUIRF1010EZL	AUIRF1010EZS	AUIRF1010Z	AUIRF1010ZL	AUIRF1010ZS
+AUIRF1018E	AUIRF1018ES	AUIRF1324	AUIRF1324S	AUIRF1324WL	AUIRF1404	AUIRF1404L
+AUIRF1404S	AUIRF1404Z	AUIRF1404ZL	AUIRF1404ZS	AUIRF1405	AUIRF1405ZL	AUIRF1405ZS
+AUIRF2804	AUIRF2804L	AUIRF2804S	AUIRF2804S-7P	AUIRF2804WL	AUIRF2805	AUIRF2805L
+AUIRF2805S	AUIRF2807	AUIRF2903Z	AUIRF2903ZL	AUIRF2903ZS	AUIRF2907Z	AUIRF2907ZS
+AUIRF2907ZS-7P	AUIRF3004WL	AUIRF3007	AUIRF3205	AUIRF3205Z	AUIRF3205ZS	AUIRF3305
+AUIRF3315S	AUIRF3415	AUIRF3504	AUIRF3710Z	AUIRF3710ZS	AUIRF3805	AUIRF3805L
+AUIRF3805L-7P	AUIRF3805S	AUIRF3805S-7P	AUIRF3808	AUIRF3808S	AUIRF4104	AUIRF4104S
+AUIRF4905	AUIRF4905L	AUIRF4905S	AUIRF5210S	AUIRF540Z	AUIRF540ZS	AUIRF6215
+AUIRF7103Q	AUIRF7207Q	AUIRF7303Q	AUIRF7304Q	AUIRF7309Q	AUIRF7316Q	AUIRF7319Q
+AUIRF7341Q	AUIRF7342Q	AUIRF7343Q	AUIRF7379Q	AUIRF7416Q	AUIRF7478Q	AUIRF7484Q
+AUIRF7640S2	AUIRF7647S2	AUIRF7648M2	AUIRF7665S2	AUIRF7669L2	AUIRF7675M2	AUIRF7734M2
+AUIRF7736M2	AUIRF7737L2	AUIRF7738L2	AUIRF7739L2	AUIRF7759L2	AUIRF7799L2	AUIRF7805Q
+AUIRF9540N	AUIRF9952Q	AUIRF9Z34N	AUIRFB3004	AUIRFB3006	AUIRFB3077	AUIRFB3206
+AUIRFB3207	AUIRFB3207Z	AUIRFB3306	AUIRFB3307Z	AUIRFB3607	AUIRFB3806	AUIRFB4110
+AUIRFB4115	AUIRFB4127	AUIRFB4227	AUIRFB4310Z	AUIRFB4321	AUIRFB4332	AUIRFB4410
+AUIRFB4410Z	AUIRFB4610	AUIRFB4615	AUIRFB4620	AUIRFBA1405	AUIRFI3205	AUIRFI4905
+AUIRFIZ34N	AUIRFIZ44N	AUIRFL014N	AUIRFL024N	AUIRFP064N	AUIRFP1405	AUIRFP2602
+AUIRFP2907	AUIRFP2907Z	AUIRFP3077	AUIRFP3206	AUIRFP3306	AUIRFP4004	AUIRFP4110
+AUIRFP4227	AUIRFP4310Z	AUIRFP4368	AUIRFP4410Z	AUIRFP4468	AUIRFP4568	AUIRFP4668
+AUIRFP4768	AUIRFR024N	AUIRFR1010Z	AUIRFR1018E	AUIRFR120Z	AUIRFR2307Z	AUIRFR2405
+AUIRFR2407	AUIRFR2607Z	AUIRFR2905Z	AUIRFR3504	AUIRFR3504Z	AUIRFR3607	AUIRFR3710Z
+AUIRFR3806	AUIRFR4104	AUIRFR4105	AUIRFR4105Z	AUIRFR4615	AUIRFR4620	AUIRFR48Z
+AUIRFR5305	AUIRFR5410	AUIRFR5505	AUIRFR6215	AUIRFR9024N	AUIRFS3004-7P	AUIRFS3006
+
+
+Shipping:
+
+1. We can shipping all over the world by DHL , UPS , FedEx and EMS . The packaging is very safe and strong. If you have any special needs please nitfy me.
+
+2. It will take around 3-5 days to reach your hands .
+
+
+Product Type & Condition :
+
+1. Because of the fluctuant sales situation. the stock parts are always changing and the stock list cannot be promptly updated . So,please consult the stock situation when you inquire.
+
+
+Warranty & Guarantee :
+
+All components we sell the quality with 30 days Return policy from the day of shipment. 
+
+
+Buyer Reading:
+
+1. Please confirm receipt of products if the items you received , and if the goods was damaged please contact us immediately. send the photo to us that we can check and give you best solution 
+
+2. We only guarantee Delivery in time but we couldn't control the express delivery time. Our related sales person will be responsible to send the AWB for the delivered goods in the next workday. you can check the AWB in the website which we send to you. For the AWB you also can call to the local branch of the express company in your company.
