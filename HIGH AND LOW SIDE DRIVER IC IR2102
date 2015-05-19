@@ -24,9 +24,7 @@ Supplier Device Package	8-SOIC N
 Online Catalog	High and Low Side
 
 Features
-• Floating channel designed for bootstrap operation
-  Fully operational to +600V
-  Tolerant to negative transient voltage dV/dt immune
+• Floating channel designed for bootstrap operation Fully operational to +600V Tolerant to negative transient voltage dV/dt immune
 • Gate drive supply range from 10 to 20V
 • Undervoltage lockout
 • 5V Schmitt-triggered input logic
