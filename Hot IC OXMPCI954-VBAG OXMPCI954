@@ -1,0 +1,64 @@
+OXMPCI954-VBAG - Integrated High Performance Quad UARTs, 8-bit Local Bus/Parallel Port. 3.3v PCI/miniPCI interface.
+
+Standard Package 
+2,500
+Category
+RF/IF and RFID
+
+Family
+RF Transmitters
+
+Series
+-
+ 
+• Software compatible with OX16PCI954
+• Four 16C950 High performance UART channels
+• 8-bit Pass-through Local Bus (PCI Bridge)
+• IEEE1284 Compliant SPP/EPP/ECP parallel port (with external transceiver)
+• Efficient 32-bit, 33MHz, Multi-function target-only PCI controller, fully compliant to PCI Local Bus specification 3.0, and PCI Power Management Specification 1.1
+• PCI and miniPCI Modes (with CLKRUN# and D3cold support in miniPCI modes)
+• UARTs fully software compatible with 16C550-type devices.
+• UART operation up to 60 MHz via external clock source. Up to 20MHz with the crystal oscillator.
+• Baud rates up to 60Mbps in external 1x clock mode and 15Mbps in asynchronous mode.
+• 128-byte deep FIFO per transmitter and receiver
+• Flexible clock prescaler, from 1 to 31.875
+• Automated in-band flow control using programmable Xon/Xoff in both directions Automated out-of-band flow control using CTS#/RTS# and/or DSR#/DTR#
+• Arbitrary trigger levels for receiver and transmitter FIFO interrupts and automatic in-band and out-of-band flow control
+• Infra-red (IrDA) receiver and transmitter operation
+• 9-bit data framing, as well as 5,6,7 and 8 bits
+• Detection of bad data in the receiver FIFO
+• Global Interrupt Status and readable FIFO levels to facilitate implementation of efficient device drivers.
+• Local registers to provide status/control of device functions.
+• 12 multi-purpose I/O pins, which can be configured as input interrupt pins or ‘wake-up’.
+• Auto-detection of a wide range of optional MicrowireTM compatible EEPROMs, to re-configure device parameters.
+• Function access, to pre-configure each function prior to handover to generic device drivers.
+• Operation via IO or memory mapping.
+• 3.3V operation (5v tolerance on selected I/Os)
+• Extended Operating Temp. Range : -40C to 105C
+• 160-pin LQFP or 176-pin VBGA package
+ 
+Shipping:
+
+1. We can shipping all over the world by DHL , UPS , FedEx and EMS . The packaging is very safe and strong. If you have any special needs please nitfy me.
+
+2. It will take around 3-5 days to reach your hands .
+
+
+Product Type & Condition :
+
+1. Because of the fluctuant sales situation. the stock parts are always changing and the stock list cannot be promptly updated . So,please consult the stock situation when you inquire.
+
+
+Warranty & Guarantee :
+
+All components we sell the quality with 30 days Return policy from the day of shipment. 
+
+
+Buyer Reading:
+
+1. Please confirm receipt of products if the items you received , and if the goods was damaged please contact us immediately. send the photo to us that we can check and give you best solution 
+
+2. We only guarantee Delivery in time but we couldn't control the express delivery time. Our related sales person will be responsible to send the AWB for the delivered goods in the next workday. you can check the AWB in the website which we send to you. For the AWB you also can call to the local branch of the express company in your company.
+ 
+
+If you have any other questions please feel free to contact us in any time!
